@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 794 1123" role="img" aria-labelledby="title"><title id="title">Daily productivity planner — Pumerse Studio</title><desc>Original single-page design. Editable text and vector shapes. Fictional sample content.</desc>
+<rect x="0" y="0" width="794" height="1123" rx="0" fill="#FFFFFF"/>
+<text x="48" y="94" font-family="DejaVu Serif" font-size="38" font-weight="400" fill="#315C4C">Make space for today.</text>
+<text x="48" y="142" font-family="DejaVu Sans" font-size="12" font-weight="700" fill="#315C4C">DATE</text>
+<path d="M95 145 L326 145" fill="none" stroke="#202E2B" stroke-width="1.5"/>
+<text x="441" y="142" font-family="DejaVu Sans" font-size="12" font-weight="700" fill="#315C4C">TODAY I WANT TO FEEL</text>
+<path d="M441 177 L746 177" fill="none" stroke="#202E2B" stroke-width="1.5"/>
+<rect x="48" y="210" width="698" height="160" rx="10" fill="#EEF2E9"/>
+<text x="68" y="242" font-family="DejaVu Sans" font-size="13" font-weight="700" fill="#315C4C">MY THREE PRIORITIES</text>
+<circle cx="75" cy="273" r="7" fill="#FFFFFF"/>
+<path d="M96 282 L722 282" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<circle cx="75" cy="305" r="7" fill="#FFFFFF"/>
+<path d="M96 314 L722 314" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<circle cx="75" cy="337" r="7" fill="#FFFFFF"/>
+<path d="M96 346 L722 346" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="418" font-family="DejaVu Sans" font-size="14" font-weight="700" fill="#315C4C">TIME BLOCKS</text>
+<text x="444" y="418" font-family="DejaVu Sans" font-size="14" font-weight="700" fill="#315C4C">TASKS &amp; FOLLOW-UPS</text>
+<text x="48" y="458" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">09:00</text>
+<path d="M100 462 L404 462" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="446" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 462 L746 462" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="506" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">10:00</text>
+<path d="M100 510 L404 510" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="494" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 510 L746 510" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="554" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">11:00</text>
+<path d="M100 558 L404 558" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="542" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 558 L746 558" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="602" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">12:00</text>
+<path d="M100 606 L404 606" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="590" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 606 L746 606" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="650" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">13:00</text>
+<path d="M100 654 L404 654" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="638" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 654 L746 654" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="698" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">14:00</text>
+<path d="M100 702 L404 702" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="686" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 702 L746 702" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="746" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">15:00</text>
+<path d="M100 750 L404 750" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="734" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 750 L746 750" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="794" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">16:00</text>
+<path d="M100 798 L404 798" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="782" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 798 L746 798" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="842" font-family="DejaVu Sans" font-size="13" font-weight="400" fill="#202E2B">17:00</text>
+<path d="M100 846 L404 846" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<rect x="445" y="830" width="13" height="13" rx="2" fill="#EEF2E9"/>
+<path d="M472 846 L746 846" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="931" font-family="DejaVu Sans" font-size="13" font-weight="700" fill="#315C4C">ONE SMALL WIN</text>
+<path d="M48 973 L404 973" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="445" y="931" font-family="DejaVu Sans" font-size="13" font-weight="700" fill="#315C4C">TOMORROW CAN WAIT</text>
+<path d="M445 973 L746 973" fill="none" stroke="#B5C2AE" stroke-width="1.5"/>
+<text x="48" y="1020" font-family="DejaVu Sans" font-size="14" font-weight="400" fill="#315C4C">Progress over perfection. Leave a little breathing room.</text>
+<path d="M48 1066 L746 1066" fill="none" stroke="#202E2B" stroke-width="1.5"/>
+<text x="48" y="1093" font-family="DejaVu Sans" font-size="10" font-weight="400" fill="#202E2B">PUMERSE STUDIO  /  ORIGINAL DESIGN</text>
+<text x="719" y="1093" font-family="DejaVu Sans" font-size="10" font-weight="400" fill="#202E2B">09</text>
+</svg>

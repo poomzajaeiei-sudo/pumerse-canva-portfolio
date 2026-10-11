@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title"><title id="title">Educational presentation slide — Pumerse Studio</title><desc>Original single-page design. Editable text and vector shapes. Fictional sample content.</desc>
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="#F7F2E8"/>
+<text x="64" y="81" font-family="DejaVu Sans" font-size="18" font-weight="700" fill="#315C4C">DESIGN FOUNDATIONS  /  LESSON 02</text>
+<text x="64" y="180" font-family="DejaVu Sans" font-size="52" font-weight="700" fill="#202E2B">Hierarchy helps people find their way.</text>
+<text x="66" y="239" font-family="DejaVu Sans" font-size="26" font-weight="400" fill="#202E2B">Use size, contrast and space to make the next step obvious.</text>
+<rect x="64" y="310" width="450" height="430" rx="16" fill="#E7E4D8"/>
+<text x="92" y="365" font-family="DejaVu Sans" font-size="18" font-weight="700" fill="#315C4C">01</text>
+<text x="92" y="421" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#202E2B">Size</text>
+<text x="92" y="465.0" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">Make the main idea the</text>
+<text x="92" y="494.45" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">largest element on the page.</text>
+<text x="92" y="585" font-family="DejaVu Sans" font-size="40" font-weight="700" fill="#202E2B">Main idea</text>
+<text x="92" y="626" font-family="DejaVu Sans" font-size="18" font-weight="400" fill="#202E2B">Supporting information</text>
+<path d="M92 660 L374 660" fill="none" stroke="#315C4C" stroke-width="1.5"/>
+<rect x="574" y="310" width="450" height="430" rx="16" fill="#E7E4D8"/>
+<text x="602" y="365" font-family="DejaVu Sans" font-size="18" font-weight="700" fill="#315C4C">02</text>
+<text x="602" y="421" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#202E2B">Contrast</text>
+<text x="602" y="465.0" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">Use a distinct tone to</text>
+<text x="602" y="494.45" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">highlight what matters.</text>
+<rect x="602" y="560" width="394" height="116" rx="8" fill="#315C4C"/>
+<text x="625" y="606" font-family="DejaVu Sans" font-size="19" font-weight="700" fill="#FFFFFF">Start with one clear action.</text>
+<text x="625" y="645" font-family="DejaVu Sans" font-size="18" font-weight="400" fill="#FFFFFF">Read the full guide →</text>
+<rect x="1084" y="310" width="450" height="430" rx="16" fill="#E7E4D8"/>
+<text x="1112" y="365" font-family="DejaVu Sans" font-size="18" font-weight="700" fill="#315C4C">03</text>
+<text x="1112" y="421" font-family="DejaVu Sans" font-size="31" font-weight="700" fill="#202E2B">Space</text>
+<text x="1112" y="465.0" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">Group related information.</text>
+<text x="1112" y="494.45" font-family="DejaVu Sans" font-size="19" font-weight="400" fill="#202E2B">Give key ideas room.</text>
+<rect x="1112" y="558" width="320" height="10" rx="5" fill="#315C4C"/>
+<rect x="1112" y="580" width="270" height="10" rx="5" fill="#315C4C"/>
+<rect x="1112" y="652" width="320" height="10" rx="5" fill="#315C4C"/>
+<rect x="1112" y="674" width="210" height="10" rx="5" fill="#315C4C"/>
+<text x="64" y="795" font-family="DejaVu Sans" font-size="22" font-weight="400" fill="#315C4C">TRY IT  →  Identify the first thing you notice on this slide. Which cue draws your eye?</text>
+<path d="M48 843 L1552 843" fill="none" stroke="#202E2B" stroke-width="1.5"/>
+<text x="48" y="870" font-family="DejaVu Sans" font-size="10" font-weight="400" fill="#202E2B">PUMERSE STUDIO  /  ORIGINAL DESIGN</text>
+<text x="1525" y="870" font-family="DejaVu Sans" font-size="10" font-weight="400" fill="#202E2B">08</text>
+</svg>

@@ -1,0 +1,112 @@
+[
+  {
+    "file": "01-minimalist-resume",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "02-creative-resume",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "03-instagram-promotion",
+    "canvas": [
+      1080,
+      1080
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "04-carousel-cover",
+    "canvas": [
+      1080,
+      1080
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "05-coffee-poster",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "06-wellness-poster",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "07-business-pitch",
+    "canvas": [
+      1600,
+      900
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "08-educational-slide",
+    "canvas": [
+      1600,
+      900
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "09-daily-planner",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  },
+  {
+    "file": "10-service-price-list",
+    "canvas": [
+      794,
+      1123
+    ],
+    "text_bounds": "passed",
+    "text_overlap": "passed",
+    "xml": "passed",
+    "png_render": "passed"
+  }
+]
